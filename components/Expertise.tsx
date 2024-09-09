@@ -31,7 +31,7 @@ const ExpertiseComponent = () => {
           layout="fill"
           className="object-cover rounded-lg"
         />
-        <div className="absolute inset-0 border-b-4 border-l-4 border-orange-500 rounded-lg"></div>
+        <div className="absolute inset-0 border-b-8 border-l-8 border-orange-500 rounded-lg"></div>
       </div>
 
       {/* Right Side: Text */}
